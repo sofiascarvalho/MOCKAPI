@@ -2,32 +2,32 @@
   "fotos": [
     {
       "id": 1,
-      "imagem": "https://i.postimg.cc/Lh8x2Nhk/vitao.jpg",
-      "legenda": "Vitão chutou o balde e veio buscar de volta",
+      "imagem": "https://private-user-images.githubusercontent.com/163853687/475696641-b4f97d22-d111-4f72-926a-d717c6293496.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1ODc1NTcsIm5iZiI6MTc1NDU4NzI1NywicGF0aCI6Ii8xNjM4NTM2ODcvNDc1Njk2NjQxLWI0Zjk3ZDIyLWQxMTEtNGY3Mi05MjZhLWQ3MTdjNjI5MzQ5Ni5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MDdUMTcyMDU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9M2Y0M2Q1NjUyMWQyZGY0ZGU4NTMxZWQ2MTMxMWRhYzdmMDNlZDA3ZGE4OWY2YTE4NWY1YjY0OTQxZjljMmVlMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.dWZC1f-gfow5TDS37EsO3I2vOUYpe12rOk5ceSlHE7s",
+      "legenda": "Professor Vitor matando a saudade",
       "data": "31/07/2025"
     },
     {
       "id": 2,
-      "imagem": "https://i.postimg.cc/7Jh99Yjt/quadra.jpg",
-      "legenda": "Quadra que não usamos por culpa dos escorpiões",
+      "imagem": "https://private-user-images.githubusercontent.com/163853687/475696624-c9286b34-ce01-41b1-8c7c-5d6488f486d1.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1ODc1NTcsIm5iZiI6MTc1NDU4NzI1NywicGF0aCI6Ii8xNjM4NTM2ODcvNDc1Njk2NjI0LWM5Mjg2YjM0LWNlMDEtNDFiMS04YzdjLTVkNjQ4OGY0ODZkMS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MDdUMTcyMDU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YmFkZjhmMGNiM2M5ZjZiNTI3ZTZiMmY0ODM2YzY3MTYxOWZmMDc0MmIxNmM3OWRlYzc5YTIzNzA0MGY5OGEyYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.PoygovZNvvc_g_eRteWh7LYWCm1-7050cuHl93P8zH0",
+      "legenda": "Quadra do SENAI",
       "data": "31/07/2025"
     },
     {
       "id": 3,
-      "imagem": "https://i.postimg.cc/tTVQHR8R/costura.jpg",
-      "legenda": "Sala de costura, muito pitica",
+      "imagem": "https://private-user-images.githubusercontent.com/163853687/475697077-9c274447-117f-4928-83ed-fa333a14abb3.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1ODc1NTcsIm5iZiI6MTc1NDU4NzI1NywicGF0aCI6Ii8xNjM4NTM2ODcvNDc1Njk3MDc3LTljMjc0NDQ3LTExN2YtNDkyOC04M2VkLWZhMzMzYTE0YWJiMy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MDdUMTcyMDU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDg1MzVkNGZhYmQyYzMyZjI0NmE2NmNmOGI1YjdhMzcxYTRlOWNlNWE5MzhjNGNjZDNkYjEwMDkyZGNhYzNiZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.w2H8qTKsvPpeeJRHcXWhCH32jLoZ7Xv2tHklbgalyR0",
+      "legenda": "Sala de costura",
       "data": "31/07/2025"
     },
     {
       "id": 4,
-      "imagem": "https://i.postimg.cc/FdDG0JCJ/quadrante-senai.jpg",
-      "legenda": "Quadrante com o nome do Senai!",
+      "imagem": "https://private-user-images.githubusercontent.com/163853687/475696631-88df811a-9e35-46f8-bb74-560be8235fd5.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1ODc1NTcsIm5iZiI6MTc1NDU4NzI1NywicGF0aCI6Ii8xNjM4NTM2ODcvNDc1Njk2NjMxLTg4ZGY4MTFhLTllMzUtNDZmOC1iYjc0LTU2MGJlODIzNWZkNS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MDdUMTcyMDU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZThjOTY3YWExNWVmNzJkOTljMzM1YjIxZWZkZDJjNDAyNDI3ZGU1YTYzMTllOWRkMTdlY2RkYTI3ZTlhNzIzOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.iYPD12XF2c2oJk_BbSJA2UoatechK3deAQeFuqTU_W8",
+      "legenda": "Quadrante com o nome do Senai",
       "data": "31/07/2025"
     },
     {
       "id": 5,
-      "imagem": "https://i.postimg.cc/4KR8GGhn/pingas.jpg",
-      "legenda": "Mesa do Pingas",
+      "imagem": "https://private-user-images.githubusercontent.com/163853687/475696615-a624122c-6acb-4330-a3c8-b730f9fe5adf.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1ODc1NTcsIm5iZiI6MTc1NDU4NzI1NywicGF0aCI6Ii8xNjM4NTM2ODcvNDc1Njk2NjE1LWE2MjQxMjJjLTZhY2ItNDMzMC1hM2M4LWI3MzBmOWZlNWFkZi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MDdUMTcyMDU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZjZmMjY4ZmE5OWJlZjBkYmUxMTRkNGYwNjRkYjMxZWRkNzU1YjA4NjJjNTY4MDhkMjhlMjgzZTBlYjA0MDZjZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.tcjb4cuT55vFvIT_bH0irKkKJDfAT2gPd-amdf-KM50",
+      "legenda": "Mesa do Ping Pong",
       "data": "31/07/2025"
     }
   ]
